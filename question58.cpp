@@ -38,6 +38,7 @@ int main()
 
     cout << "Maximum sum of subarray of size " << k << " is "
          << maxSumSubarray(arr, k) << endl;
-
+cout << "Maximum sum of subarray of size " << k << " is "
+         << maxSumSubarray(arr, k) << endl;
     return 0;
 }
